@@ -1,0 +1,32 @@
+{
+    "contacts": [
+        {
+            "firstName": "Damir",
+            "phone": "111222333",
+            "email": "damir@mail.ru",
+            "domain": "Frontend",
+            "age": 27
+        },
+        {
+            "firstName": "",
+            "phone": "111222333",
+            "email": "damir@mail.ru",
+            "domain": "Frontend",
+            "age": 27
+        },
+        {
+            "firstName": "Damir",
+            "phone": "111222333",
+            "email": "damir@mail.ru",
+            "domain": "Frontend",
+            "age": 27
+        },
+        {
+            "firstName": "Damir",
+            "phone": "111222333",
+            "email": "damir@mail.ru",
+            "domain": "Frontend",
+            "age": 27
+        }
+    ]
+}
